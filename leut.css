@@ -1,0 +1,150 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #666;
+}
+a:link {
+	color: #004D7E;
+		text-decoration:none;	
+}
+a:visited {
+	color: #004D7E;
+		text-decoration:none;	
+}
+a:hover {
+	color: #F0A65D;
+		text-decoration:none;	
+}
+a:active {
+	color: #004D7E;
+		text-decoration:none;	
+}
+
+html { 
+	background: url(img/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.prazno{
+						height: 5px;
+						
+						}
+.headergore{
+	height: 40px;
+	background-image:url(img/img_02.jpg);
+	background-position: top;
+	background-repeat:no-repeat;
+	color: #9ec1dc;
+	padding-right: 10px;
+	}
+	.headergore a:link{
+	
+	color: #9ec1dc;
+	
+	}
+	
+	.headergore a:hover
+	{
+		color:#efa459;}
+	
+	
+.gradijent
+{
+	background-image:url(img/gradijent.jpg);
+	background-position:left top;
+	background-repeat:no-repeat;
+	min-height: 68px;}
+	
+	
+
+	
+	
+	
+				a.trakica:hover
+	{
+	
+		
+						text-decoration:none;	
+					background-color:#949da6;	
+					color: #fff;
+					
+		}	
+		a.trakica:link
+	{
+		padding: 3px;
+		color: #fff;
+				text-decoration:none;	
+					background-color:#d1d1d1;	
+										
+		}
+		.imga
+{
+	-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+border: 2px solid #FFF;
+-moz-border-radius: 2px;
+border-radius: 2px;
+padding: 1px;
+
+	}
+	
+			.imga:hover
+{
+	border: 2px solid #f0a961;
+
+	}
+	.footer
+									{
+background-color:#000;
+font-size:12px;
+opacity:0.8;
+height: 35px;
+color: #333;
+margin: auto;
+text-align:right;
+padding-right:5px;						
+										}
+.plavogore
+{
+	
+background-image:url(img/crta.png);
+	background-position:left top;
+	background-repeat:repeat-x;;
+	
+	
+	}
+	
+	.boldtext
+	{
+		font-size:14px;
+		font-weight:bold;
+		color:#ee943b;
+		}
+		.borderdole
+		{
+			border-bottom: 1px dotted #d1d1d1;
+			padding: 2px;}
+			.fbikona
+			{
+				position:relative;
+				float: left;	
+				left: 10px;
+				
+				
+				
+				}
+				.desc
+				{
+					font-size:11px;
+					color: #999;}
